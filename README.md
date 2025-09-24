@@ -52,7 +52,7 @@ Please review the [Contribution Guide](https://github.com/DavidHDev/react-bits/b
 
 <a href="https://github.com/davidhdev/react-bits/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=davidhdev/react-bits" />
-</a>
+</a> 
 
 ## Maintainers
 
